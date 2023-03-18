@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "interact": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "nbt": "{Tags:[\"rightclick_about\"]}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "rightclick_about"
+    }
+}

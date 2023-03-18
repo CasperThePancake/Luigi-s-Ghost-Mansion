@@ -1,0 +1,1 @@
+execute in minecraft:the_end run tp @p 93 58 33

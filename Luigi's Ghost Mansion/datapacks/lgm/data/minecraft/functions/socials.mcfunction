@@ -1,0 +1,3 @@
+tellraw @p ["",{"text":"[Socials]","color":"gold"},"\n",{"text":"YouTube (CasperThePancake)","color":"red","clickEvent":{"action":"open_url","value":"https://youtube.com/@casperthepancake"}},"\n",{"text":"YouTube (CasperTheBuilder)","color":"red","clickEvent":{"action":"open_url","value":"https://youtube.com/@casperthebuilder"}},"\n",{"text":"Twitter","color":"aqua","clickEvent":{"action":"open_url","value":"https://twitter.com/casperpancake"}},"\n",{"text":"Instagram","color":"dark_purple","clickEvent":{"action":"open_url","value":"https://instagram.com/casperthepancake"}}]
+
+playsound minecraft:lgm.ns_1 weather @p

@@ -1,0 +1,1 @@
+execute if entity @e[tag=player,scores={battery=..40}] as @e[tag=batterymarker,limit=1,sort=random] at @s run function create_battery
